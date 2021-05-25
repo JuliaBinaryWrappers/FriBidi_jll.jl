@@ -8,12 +8,12 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_executable_product(
         fribidi,
-        "bin/fribidi.exe",
+        "bin\\fribidi.exe",
     )
 
     JLLWrappers.@init_library_product(
         libfribidi,
-        "bin/libfribidi-0.dll",
+        "bin\\libfribidi-0.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
