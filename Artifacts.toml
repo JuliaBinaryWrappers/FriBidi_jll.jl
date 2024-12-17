@@ -1,143 +1,151 @@
 [[FriBidi]]
 arch = "aarch64"
-git-tree-sha1 = "a6b6a73123c51d64fc30aa1caf34364bacf0f8a5"
+git-tree-sha1 = "1994697285dfe8747ff7ec6927666edc88750202"
 os = "macos"
 
     [[FriBidi.download]]
-    sha256 = "082c1322624d7ea3b099f0f5ee6bce4f1cb4a73b0a1268e4289442a0ebe88f52"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.aarch64-apple-darwin.tar.gz"
+    sha256 = "218016f7e49d46869b8d11bbdb9526e710f884570df171989fb23e9ae2099e11"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.aarch64-apple-darwin.tar.gz"
 [[FriBidi]]
 arch = "aarch64"
-git-tree-sha1 = "25cadd996d333a98b1f2886d2bc802e246c8ddd2"
+git-tree-sha1 = "51ed4ac06c63a0f76c7aaf3734f264d58619166d"
 libc = "glibc"
 os = "linux"
 
     [[FriBidi.download]]
-    sha256 = "384ea43176699700812eadf263ab0864863186c3b5f6da0a859532040e6ec710"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.aarch64-linux-gnu.tar.gz"
+    sha256 = "79a07a0e8eadfcc60f8e1d079390bcbb831626bcdf29293eaa1a4f75885f16df"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.aarch64-linux-gnu.tar.gz"
 [[FriBidi]]
 arch = "aarch64"
-git-tree-sha1 = "cc6b2fbe50901742c9f179c1d89839b77f4c4560"
+git-tree-sha1 = "b24516586fcb3a9e570a95dc28048421bff56d6d"
 libc = "musl"
 os = "linux"
 
     [[FriBidi.download]]
-    sha256 = "844f8b49575f59fc66d8993877ced0f81440a91e884a865e1530ffb7723b5c03"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.aarch64-linux-musl.tar.gz"
+    sha256 = "db06797210519237270fbbc91c8c869b9a18d87c1daa4af547d2371a72676970"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.aarch64-linux-musl.tar.gz"
 [[FriBidi]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "9c999da5b577f4ca18128f3039b980cbf09bdab7"
-libc = "glibc"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "a22659e850cb14f8468db943567de8d3788c6df993a09347574246250c2f1885"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.armv6l-linux-gnueabihf.tar.gz"
-[[FriBidi]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "fd7e41c517f3c4f9445684459fe6863e517f68ae"
-libc = "musl"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "aa2644bb6b7fc67b239bb8d79f67b70ac63c0185f7c472a9170f8a56f38f4dff"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.armv6l-linux-musleabihf.tar.gz"
-[[FriBidi]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "38d44291525d953fd7c78833195aece655b5faec"
-libc = "glibc"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "da8233bf45ae6e4ed9c055c7f72b8b1ecf03e699723e143531b694b078828590"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.armv7l-linux-gnueabihf.tar.gz"
-[[FriBidi]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "9e6a170a34141303a1beb23fdaa81d8e36663dc4"
-libc = "musl"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "424cee2f27f4a3af8935f5879f01c029357f54403fbc5abb174c5b4ecafd8057"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.armv7l-linux-musleabihf.tar.gz"
-[[FriBidi]]
-arch = "i686"
-git-tree-sha1 = "53122b869415e2a29aaff3e0bb73a61301c45a49"
-libc = "glibc"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "951e11179185664f3f3eb66a282b55c371d17a49a1a69327e6e9489f2dc4b6af"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.i686-linux-gnu.tar.gz"
-[[FriBidi]]
-arch = "i686"
-git-tree-sha1 = "f4cfdeade2c1e006008094045a0095e97d0142b9"
-libc = "musl"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "ab2f4a76a6b92d58513e3101ab302fd542d30ee4ba77766dd37965cc03e4e6cf"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.i686-linux-musl.tar.gz"
-[[FriBidi]]
-arch = "i686"
-git-tree-sha1 = "4df56f0af84b721709ab9a1f25c354f76347b796"
-os = "windows"
-
-    [[FriBidi.download]]
-    sha256 = "163ebce6d9176114c299a571fbac6939208809adca80e9278447b7c0490b5989"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.i686-w64-mingw32.tar.gz"
-[[FriBidi]]
-arch = "powerpc64le"
-git-tree-sha1 = "014bd597ff5f7173f7bdcecd885b460182a91218"
-libc = "glibc"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "9108be903d6b30a747b8d0be04d9aab3ffe28fb7d1e875eae4bf94d5fcefa5b8"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.powerpc64le-linux-gnu.tar.gz"
-[[FriBidi]]
-arch = "x86_64"
-git-tree-sha1 = "283f882df6f27091e6ecd8ef992ae9fecc7639dd"
-os = "macos"
-
-    [[FriBidi.download]]
-    sha256 = "3eef49318b68dbfad9252e0422a908f557039e1ba19e3bb2c60ee34a965e2b42"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.x86_64-apple-darwin.tar.gz"
-[[FriBidi]]
-arch = "x86_64"
-git-tree-sha1 = "2ab21f29b30c228bd0e5215585f822730cad5a72"
-libc = "glibc"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "4c336cf18e955d6af0030cb0ae1877ca3e2a41e88acfb58be743cfde03bdf778"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.x86_64-linux-gnu.tar.gz"
-[[FriBidi]]
-arch = "x86_64"
-git-tree-sha1 = "b4e9aa5031a96d62b7e566c9453c362f7cd994bf"
-libc = "musl"
-os = "linux"
-
-    [[FriBidi.download]]
-    sha256 = "5301b96e0dedba8195586b32c7dc9f8d78a0cb692427d5de79b94be5f135865a"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.x86_64-linux-musl.tar.gz"
-[[FriBidi]]
-arch = "x86_64"
-git-tree-sha1 = "01406e3c2f0e74359bc43cf74da842795cc1e702"
+arch = "aarch64"
+git-tree-sha1 = "c1a0d38de0d2155106b6beda19d2e7372a89fe06"
 os = "freebsd"
 
     [[FriBidi.download]]
-    sha256 = "1d7621597a822785bead5ccd98b21273026ec2930c4b296b405daac0ff3dc29d"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d02c89cf0618b568e452d33b3a5369e80f4534c1b82234d3073fdd24185b28ec"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.aarch64-unknown-freebsd.tar.gz"
 [[FriBidi]]
-arch = "x86_64"
-git-tree-sha1 = "4f8287228fc5b62c789ef45496d1df624df912ac"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c66a1b34ccb08d1a031e8d90c6ce61480399ec95"
+libc = "glibc"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "9ae88566a50debdc76ce92a67f4a6ee9ff8581c935c7388391ca9c78f17eddcd"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.armv6l-linux-gnueabihf.tar.gz"
+[[FriBidi]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "60cdd692f76deded6f54a8c682e3ecfe08b01bb3"
+libc = "musl"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "27f90e11903e3aef83eb3332989bb7379d3ab98a8b3b478a4be23d1f5666c430"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.armv6l-linux-musleabihf.tar.gz"
+[[FriBidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fa9a44ee956650b558df779f485f946c05609215"
+libc = "glibc"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "a579ae684ee9164a1b133a871fe0e1bb54e3cc3b058239526c03ada953d6bfbb"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.armv7l-linux-gnueabihf.tar.gz"
+[[FriBidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bd4478ed7b7d065c3c635a8e7830203a448f4ca7"
+libc = "musl"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "7b23fbf34caf25aada5f3bd34d7606f53274a85143d32a074b2e5d9c14c6d625"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.armv7l-linux-musleabihf.tar.gz"
+[[FriBidi]]
+arch = "i686"
+git-tree-sha1 = "52000b93c10abd5347fd5dcdf6ef023727a7fbad"
+libc = "glibc"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "3b8fa90d900f9967f4429cebd897175a0483e5198c24daf995b99683cffd73b3"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.i686-linux-gnu.tar.gz"
+[[FriBidi]]
+arch = "i686"
+git-tree-sha1 = "1faf8d488c0a4af5e8d46ba62d6f766802acdf92"
+libc = "musl"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "fbd7cb30788172731bc4d6df9fff499ece3f942efa3948947d3e62a2620879f1"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.i686-linux-musl.tar.gz"
+[[FriBidi]]
+arch = "i686"
+git-tree-sha1 = "f233885ddd7d72f9997edeaf6bb03dedac79440c"
 os = "windows"
 
     [[FriBidi.download]]
-    sha256 = "d2f7e00b254b3431257908a46309b302d2999ef3e8df7ad0aec835dd6f0e405a"
-    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.14+0/FriBidi.v1.0.14.x86_64-w64-mingw32.tar.gz"
+    sha256 = "52780b77ef018a813c26685352957be7b522202841a1df01bf61bcd0060a311f"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.i686-w64-mingw32.tar.gz"
+[[FriBidi]]
+arch = "powerpc64le"
+git-tree-sha1 = "9693f17c8c2d1b23d022418215e4824a7824be7f"
+libc = "glibc"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "87d27897230869155c61e3f5e23510d0430d4ccc3542c73418d6941682cc9d4e"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.powerpc64le-linux-gnu.tar.gz"
+[[FriBidi]]
+arch = "x86_64"
+git-tree-sha1 = "4ff0ff3cf1619ba54a152bc29c0af38b57bb196f"
+os = "macos"
+
+    [[FriBidi.download]]
+    sha256 = "beb6f6be4d2b0a01f6dbb9116b0c30c048ea44ba3788a9c011bbfc736b7c1b74"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.x86_64-apple-darwin.tar.gz"
+[[FriBidi]]
+arch = "x86_64"
+git-tree-sha1 = "b8a470e4553346122607f94ec60d83c77f061cd6"
+libc = "glibc"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "780b7ca303a50fbdbc25e688fae49fe3362d6c8489311f8148d775cf85f1e021"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.x86_64-linux-gnu.tar.gz"
+[[FriBidi]]
+arch = "x86_64"
+git-tree-sha1 = "aba91a7edeb2a7304d2118e8df031ca441f33c7d"
+libc = "musl"
+os = "linux"
+
+    [[FriBidi.download]]
+    sha256 = "3167397df879d2ae141ee9a61ad4c3af1bdcdda2fb5c4236280d62220e14466b"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.x86_64-linux-musl.tar.gz"
+[[FriBidi]]
+arch = "x86_64"
+git-tree-sha1 = "9189711b8f2a3fc58286981a1dd8190e0cecf449"
+os = "freebsd"
+
+    [[FriBidi.download]]
+    sha256 = "41895471c3528713094bdaaf7bd298e0740a6659cd62f203600b3fb28c1886a6"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.x86_64-unknown-freebsd.tar.gz"
+[[FriBidi]]
+arch = "x86_64"
+git-tree-sha1 = "ce4261864aeaa78b205a3f6fb750be4c4afe9b4b"
+os = "windows"
+
+    [[FriBidi.download]]
+    sha256 = "15c2f61921f33acb0c071450aedd533a1f2b6e342e34c701b793cd96a67747ef"
+    url = "https://github.com/JuliaBinaryWrappers/FriBidi_jll.jl/releases/download/FriBidi-v1.0.16+0/FriBidi.v1.0.16.x86_64-w64-mingw32.tar.gz"
